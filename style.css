@@ -3,3 +3,52 @@
 @media(max-width:800px){.header{padding:22px 6%}.header nav{display:none;position:absolute;top:100%;left:0;right:0;padding:25px 6%;background:var(--paper);color:var(--ink);border-bottom:1px solid var(--line);font-size:15px;gap:22px}.header nav.open{display:flex;flex-direction:column;align-items:flex-start}.header-actions{gap:18px}.menu-toggle{display:block}.header .button{font-size:10px;padding:10px 14px;gap:15px}.header.scrolled{padding:15px 6%}.hero{height:auto;min-height:790px}.hero-inner{padding-top:130px}.hero-top .eyebrow{font-size:8px}.hero-number{display:none}.hero-main{padding-top:15px}.hero h1{font-size:76px;letter-spacing:-4.5px;margin:28px 0}.hero-circle{display:none}.hero-image img{object-position:68% center}.hero-overlay{background:linear-gradient(90deg,#071b18ed,#0b25218a),linear-gradient(0deg,#0b201ad9,transparent 40%)}.hero-copy>p{font-size:13px}.hero-buttons{flex-direction:column;align-items:flex-start;gap:22px;margin-top:30px;margin-bottom:30px}.hero-buttons .button{font-size:11px;padding:17px 22px;gap:35px}.hero-bottom{margin-top:30px;padding:22px 0}.hero-bottom>a:first-child{gap:10px;font-size:10px}.hero-bottom-text{display:none}.scroll-cue{font-size:0;gap:0}.scroll-cue span{font-size:14px}.trust-ribbon{overflow-x:auto;justify-content:flex-start;padding:21px 6%;gap:24px;font-size:11px;scrollbar-width:none}.trust-ribbon::-webkit-scrollbar{display:none}.trust-ribbon i{font-size:20px}.wrap{width:88%}.section{padding:65px 0}.section-label{margin-bottom:35px;font-size:8px;padding-top:17px;letter-spacing:1px}.section-label span:last-child{display:none}h2{font-size:40px;letter-spacing:-2px}.section-heading{display:block;margin-bottom:30px}.section-heading>p{max-width:100%;margin-top:25px}.section-heading .outline-button{margin-top:25px}.essence-grid,.aligner-grid,.social-grid,.contact-grid,.faq{grid-template-columns:1fr;gap:35px}.essence-stamp{display:none}.large-copy{font-size:22px}.essence-content{padding-top:0}.treatment-toolbar{align-items:flex-start;flex-direction:column;margin-top:32px;gap:15px}.filter-group{gap:7px}.filter{font-size:10px;padding:8px 13px}.treatment-grid{gap:10px}.treatment-card{padding:20px 16px;min-height:285px}.treatment-card h3{font-size:18px}.treatment-card p{font-size:10px}.treatment-card-top{margin-bottom:24px}.treatment-icon{width:35px;height:35px}.treatment-footer{display:block;margin-top:28px}.treatment-footer .underline-link{margin-top:20px}.tooth-scene{min-height:420px;max-width:450px;width:100%;margin:auto}.aligner-copy h2{margin-top:18px}.aligner-copy .button{width:100%}.feature-lines{margin-bottom:25px}.visit-steps{grid-template-columns:1fr;gap:28px;margin-top:35px}.visit-steps article{display:grid;grid-template-columns:65px 1fr;column-gap:25px}.step-number{grid-row:1 / 3;padding-bottom:0;font-size:43px;border:0;align-self:start}.step-number>span{display:none}.visit-steps h3{font-size:21px;margin:0 0 10px}.visit-steps p{margin:0;font-size:12px}.visit-callout{padding:20px;gap:15px;flex-wrap:wrap;margin-top:35px}.callout-icon{width:38px;height:38px;font-size:27px}.visit-callout p{min-width:200px;font-size:10px}.visit-callout strong{font-size:11px}.visit-callout button{margin-left:52px;gap:25px;font-size:11px}.reviews-grid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:14px;margin-top:30px;padding-bottom:15px;scrollbar-width:thin;scrollbar-color:#adc4ac transparent}.review{min-width:85%;scroll-snap-align:start;min-height:290px;padding:27px}.review blockquote{font-size:23px}.social-section{padding:65px 0}.social-grid h2{font-size:37px}.social-art{height:340px;width:95%;margin:auto}.faq{gap:30px}.faq>div>p{font-size:12px}.faq h2{margin-top:17px}.faq summary{font-size:12px;padding:20px 0}.contact h2{font-size:40px}.contact-phone{font-size:34px}.hours>div{font-size:11px}.map-shell{height:460px}.map-activate{left:18px;right:18px;bottom:18px;padding:23px}.map-grid-art>b{margin-top:25px}.closing{padding:45px 0}.closing h2{font-size:36px;margin-top:17px}.closing>div>div>span{font-size:7px;letter-spacing:1px}.round-cta{width:65px;height:65px;min-width:65px;font-size:30px}footer{padding:55px 0 100px}.footer-top{grid-template-columns:1fr 1fr;row-gap:35px;padding-bottom:35px}.footer-top>div:first-child{grid-column:1 / -1;display:flex;justify-content:space-between;align-items:center}.footer-top>div>p{margin:0;font-size:10px}.back-top{display:none}.footer-bottom{flex-direction:column;gap:20px;font-size:8px}.footer-bottom>div{gap:18px;flex-wrap:wrap}.footer-bottom button{font-size:8px}.mobile-dock{display:flex;position:fixed;bottom:0;left:0;right:0;z-index:30;background:var(--paper);border-top:1px solid var(--line);padding:10px 6% max(10px,env(safe-area-inset-bottom));gap:10px;box-shadow:0 -7px 25px #173e3b08}.mobile-dock a,.mobile-dock button{display:flex;align-items:center;justify-content:space-between;font-size:11px;padding:11px 16px;border:1px solid var(--ink);background:transparent;border-radius:4px;flex:1}.mobile-dock button{background:var(--ink);color:white;flex:1.4}dialog{padding:35px 25px;max-height:85svh}dialog h2{font-size:35px}.dialog-close{right:13px;top:12px}html{scroll-padding-top:85px}}
 @media(max-width:390px){.hero h1{font-size:65px;letter-spacing:-3px}.hero{min-height:750px}.hero-top .eyebrow{font-size:7px}.brand-name{font-size:21px}.brand{min-width:100px}.header-actions{gap:12px}.treatment-grid{grid-template-columns:1fr}.treatment-card{min-height:230px}.hero-bottom>a:first-child>span:last-child{display:none}.contact-phone{font-size:30px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{animation:none!important;transition:none!important}}
+/* Vector icons: the same geometry on iOS, Android and desktop. */
+.ui-icon{display:inline-block;width:1em;height:1em;min-width:1em;flex-shrink:0;vertical-align:-.14em;overflow:visible;pointer-events:none}
+.button>span,.card-link>span,.hero-explore>span,.review-mark,.round-cta,.back-top,.dialog-close{display:inline-flex;align-items:center;justify-content:center}
+.stars{display:inline-flex;gap:3px;letter-spacing:0}.stars .ui-icon{width:15px;height:15px}
+.callout-icon,.essence-stamp>span{padding-bottom:0}
+.hero-explore .ui-icon,.hero-bottom .ui-icon,.underline-link .ui-icon,.mobile-dock .ui-icon{width:18px;height:18px}
+.hero-explore>span,.hero-bottom .scroll-cue>span{flex-shrink:0}
+.faq summary>span{display:inline-flex}.faq summary .ui-icon{width:18px;height:18px}
+/* Compact treatment sheets: no clipped content and no oversized heading. */
+dialog#treatment-dialog{width:min(680px,calc(100% - 24px));max-width:none;max-height:calc(100svh - 24px);max-height:calc(100dvh - 24px);padding:26px;line-height:1.5}
+#treatment-detail .detail-header{display:flex;align-items:center;gap:15px;padding-right:24px;margin-bottom:15px}
+#treatment-detail .treatment-icon{width:40px;height:44px;flex:0 0 40px;margin:0}
+#treatment-detail .eyebrow{font-size:8px;letter-spacing:1.1px;line-height:1.4}
+#treatment-detail h2{font-size:28px;line-height:1.12;letter-spacing:-1px;margin:5px 0 0;text-wrap:balance}
+#treatment-detail .treatment-summary{font-size:13px;line-height:1.5;margin:0 0 14px}
+#treatment-detail .detail-points{margin:0 0 14px}
+#treatment-detail .detail-points>div{padding:10px 0;gap:12px}
+#treatment-detail .detail-points>div>span{font-size:10px;min-width:18px}
+#treatment-detail .detail-points b{font-size:12px;line-height:1.35;margin:0 0 3px}
+#treatment-detail .detail-points p{font-size:12px;line-height:1.45;margin:0}
+#treatment-detail .detail-note{font-size:11px!important;line-height:1.4;padding:10px 12px;margin:0 0 14px}
+#treatment-detail>.button{width:100%;margin:0;padding:13px 18px;min-height:44px}
+#treatment-dialog .dialog-close{width:36px;height:36px;top:10px;right:10px;font-size:20px}
+@media(min-width:560px){
+ #treatment-detail .detail-points{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));border-bottom:1px solid var(--line);gap:16px}
+ #treatment-detail .detail-points>div{border:0;display:block;padding:14px 0}
+ #treatment-detail .detail-points>div>span{display:block;margin-bottom:7px}
+}
+@media(max-width:559px){
+ dialog#treatment-dialog{padding:22px 20px}
+ #treatment-detail .detail-header{gap:12px;margin-bottom:12px}
+ #treatment-detail h2{font-size:25px}
+ #treatment-detail .treatment-icon{width:32px;height:38px;flex-basis:32px}
+ #treatment-detail .treatment-summary{font-size:12px;line-height:1.45;margin-bottom:12px}
+ #treatment-detail .detail-points{margin-bottom:12px}
+ #treatment-detail .detail-points>div{padding:8px 0}
+ #treatment-detail .detail-points b{font-size:11px}
+ #treatment-detail .detail-points p{font-size:12px;line-height:1.4}
+ #treatment-detail .detail-note{font-size:10px!important;margin-bottom:12px}
+}
+@media(max-height:600px){
+ dialog#treatment-dialog{padding:18px 20px}
+ #treatment-detail .detail-header{margin-bottom:10px}
+ #treatment-detail h2{font-size:23px}
+ #treatment-detail .treatment-summary{margin-bottom:9px;font-size:12px}
+ #treatment-detail .detail-points{margin-bottom:10px}
+ #treatment-detail .detail-points>div{padding:6px 0}
+ #treatment-detail .detail-note{margin-bottom:10px;padding:8px 10px}
+}
